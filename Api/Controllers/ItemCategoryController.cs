@@ -11,6 +11,7 @@ namespace Api.Controllers
 {
     public class ItemCategoryController : BaseRetailController<ItemCategoryModel>
     {
+
         public ItemCategoryController() : base("itemcategory")
         {
 
